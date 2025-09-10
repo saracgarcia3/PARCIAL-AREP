@@ -1,6 +1,6 @@
 ## Parcial AREP 2025-2
 
-- En este caso se nos pidio implementar un servicio web el cual debia cumplir con ciertas solicitudes, responder a solicitudes GET y diversas implementaciones, para este se hicieron modificaciones en la clase HttpServer para que recibiera esos paramentros y funcionara como lo hace un servidor web normalmente
+- En este caso se nos pidio implementar un servicio web el cual debia cumplir con ciertas requerimientos, responder a solicitudes GET y diversas implementaciones, para este se hicieron modificaciones en la clase HttpServer para que recibiera esos paramentros y funcionara como lo hace un servidor web normalmente paracumplir con los requerimientos
 
 - En el caso del cliente se introdujo la logica de Sockets para que se cumplieran los requerimientos que pedia el ejercicio para poder mandar las solicitudes
 
